@@ -1,0 +1,20 @@
+Our team is glad to welcome you in our bookcrossing telegram bot!
+***************************
+All available commands are:
+***************************
+/hello -- Greets you
+/give <book_name> <author_name> --  Use this if you want to share a book
+(e.g.: /give The_Witcher A.Sapkovski)
+/list_all -- Shows you a list of all books
+/search <book_name> or <author_name> -- Use it to search among the books available
+(e.g.: /search Bradbury, /search 1984)
+/borrowed <your`s_book_name> <author_name> -- Use this when you borrowed a book to someone
+(e.g.: /borrowed The_Witcher A.Sapkovski)
+/returned <your`s_book_name> <author_name> -- Use this when somebody returned you a book
+(e.g.: /returned The_Witcher A.Sapkovski)
+/credits -- Shows all the members of our team
+
+Note:
+You only can change book's status if you're an owner!
+
+Enjoy!
