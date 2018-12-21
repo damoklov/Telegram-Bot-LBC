@@ -5,7 +5,7 @@ Defining some key names here ..
 """
 file = 'Books.csv'
 commands_file = "commands.txt"
-updater = Updater('630548015:AAGLsP7J1CLW7d36xOfC_zhvwXcgZp1Ptlg')
+updater = Updater('') # insert token here
 creds = 'credits.txt'
 
 
